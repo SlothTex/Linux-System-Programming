@@ -1,0 +1,15 @@
+process 1 running
+process 1 i.e demo.txt capital letter count: 6
+process 2 running
+process 2 i.e demo.txt capital letter count: 7
+parent in else of process1...
+processs1 ret :69039
+process1 pid :69038
+process1 ppid :57604
+parent in else of process2...
+processs2 ret :69040
+process2 pid :69038
+process2 ppid :57604
+process 2 ended with status:69039
+process 1 ended with status:69040
+End of parent process... 
