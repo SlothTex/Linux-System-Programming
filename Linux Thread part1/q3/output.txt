@@ -1,0 +1,3 @@
+Inside main thread..
+return value i.e sum from thread is 4
+terminating the main thread

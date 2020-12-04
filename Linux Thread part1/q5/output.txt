@@ -1,0 +1,5 @@
+Inside main thread..
+Inside thread 
+ thread id is:140588551468800
+return value from thread 0
+terminating the main thread

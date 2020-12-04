@@ -1,0 +1,4 @@
+Inside main thread..
+Value passed by user is :100 
+return value from thread is 2001
+terminating the main thread
